@@ -1,0 +1,21 @@
+{
+  "Author": "C",
+  "Name": "PosPluginNeo",
+  "InternalName": "PosPluginNeo",
+  "AssemblyVersion": "0.0.1.101",
+  "Description": "Carrying you!",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Pos",
+    "plugin",
+    "C"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Pos System",
+  "Changelog": "update lib",
+  "AcceptsFeedback": true
+}

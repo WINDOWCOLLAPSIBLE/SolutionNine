@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/SolutionNine/master/pluginmaster.json
